@@ -180,7 +180,7 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "5c45c08c616d43ee9e431604c2b4711b",
+	"md5": "faf563d716159316f6b51d86e41af274",
 	"name": "C:\\Users\\pc\\Desktop\\helmet\\Helmet.mdl",
 	"seq_groups": "1",
 	"sequences": [
@@ -570,7 +570,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 260812,
+	"size": 375068,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -685,8 +685,213 @@
 			"parent": 18
 		}
 	],
-	"skins": 0,
-	"t_model": false,
-	"textures": [],
+	"skins": 1,
+	"t_model": true,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 11,
+			"name": "ohatright.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 12,
+			"name": "ohatleft.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 23,
+			"name": "ohatfront.bmp",
+			"width": 56
+		}, 
+		{
+			"flags": 0,
+			"height": 4,
+			"name": "ohattop.bmp",
+			"width": 4
+		}, 
+		{
+			"flags": 0,
+			"height": 31,
+			"name": "bill.bmp",
+			"width": 40
+		}, 
+		{
+			"flags": 0,
+			"height": 56,
+			"name": "newofficerfaceside.bmp",
+			"width": 76
+		}, 
+		{
+			"flags": 0,
+			"height": 41,
+			"name": "newofficerface.bmp",
+			"width": 52
+		}, 
+		{
+			"flags": 0,
+			"height": 6,
+			"name": "Sci2_Tounge.bmp",
+			"width": 12
+		}, 
+		{
+			"flags": 0,
+			"height": 6,
+			"name": "Sci2_Teeth.bmp",
+			"width": 44
+		}, 
+		{
+			"flags": 0,
+			"height": 1,
+			"name": "SK_Mouth1.bmp",
+			"width": 4
+		}, 
+		{
+			"flags": 0,
+			"height": 119,
+			"name": "SK_Leg1.bmp",
+			"width": 24
+		}, 
+		{
+			"flags": 0,
+			"height": 49,
+			"name": "SK_Foot1.bmp",
+			"width": 20
+		}, 
+		{
+			"flags": 0,
+			"height": 116,
+			"name": "SK_Arm1.bmp",
+			"width": 16
+		}, 
+		{
+			"flags": 0,
+			"height": 46,
+			"name": "SK_Spine1.bmp",
+			"width": 28
+		}, 
+		{
+			"flags": 0,
+			"height": 39,
+			"name": "SK_Pelvis-Side1.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 49,
+			"name": "SK_Scapula1.bmp",
+			"width": 28
+		}, 
+		{
+			"flags": 0,
+			"height": 75,
+			"name": "BX_Front_Bot1.bmp",
+			"width": 52
+		}, 
+		{
+			"flags": 0,
+			"height": 79,
+			"name": "BX_Back_Bot1.bmp",
+			"width": 56
+		}, 
+		{
+			"flags": 0,
+			"height": 50,
+			"name": "BX_Foot_Btm1.bmp",
+			"width": 24
+		}, 
+		{
+			"flags": 0,
+			"height": 66,
+			"name": "BX_Holster1.bmp",
+			"width": 44
+		}, 
+		{
+			"flags": 0,
+			"height": 47,
+			"name": "BX_Pstl.bmp",
+			"width": 28
+		}, 
+		{
+			"flags": 0,
+			"height": 49,
+			"name": "BX_GunTip1.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 59,
+			"name": "SK_Chest1.bmp",
+			"width": 44
+		}, 
+		{
+			"flags": 0,
+			"height": 91,
+			"name": "of_Front_Mid1.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 93,
+			"name": "of_Back_Mid1.bmp",
+			"width": 56
+		}, 
+		{
+			"flags": 0,
+			"height": 40,
+			"name": "BX_Pits1.bmp",
+			"width": 40
+		}, 
+		{
+			"flags": 0,
+			"height": 94,
+			"name": "of_Front_Top1.bmp",
+			"width": 76
+		}, 
+		{
+			"flags": 0,
+			"height": 114,
+			"name": "of_Back_Top1.bmp",
+			"width": 80
+		}, 
+		{
+			"flags": 0,
+			"height": 95,
+			"name": "BX_Arm1.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 17,
+			"name": "BX_Knuckles.bmp",
+			"width": 12
+		}, 
+		{
+			"flags": 0,
+			"height": 20,
+			"name": "BX_Hand1.bmp",
+			"width": 52
+		}, 
+		{
+			"flags": 0,
+			"height": 97,
+			"name": "BX_Front_Mid1.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 97,
+			"name": "BX_Back_Mid1.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 33,
+			"name": "BX_Back_Top1.bmp",
+			"width": 68
+		}
+	],
 	"version": 10
 }
