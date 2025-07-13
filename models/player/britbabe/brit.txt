@@ -1,0 +1,27 @@
+Brit Babe/Bloke by DoLLaR
+=============================================
+Installation : Unzip the contents of this file into your HalfLife/Valve/Models/Player/britbabe and britbloke folders. Then simply select the skin from the Multiplayer Customisation option within the game.
+=============================================
+=============================================
+Skin Name        : Brit Babe and Brit Bloke
+Folder           : /britbabe
+                   /britbloke
+Author           : DoLLaR [Jordan Butters]
+E-Mail           : dollarbill@btinternet.com
+Website          : http://www.stormfront.arecool.net
+Editors used     : MGI Photosuit '97, Wavelength Skin Editing Tutorial,                                     Modviewer by Matthew Wolfe
+Additonal Thanks : UK!
+==============================================
+Notes            : If you wish to use these skins for your clan, please tell me first.
+==============================================
+
+Skin by Jordan Butters
+***NB*** 	If this skin is to be used on a CD or other form of Multimedia Distribution then                 any credit given goes to Jordan Butters. Also, please ask before including it on                 any such distributive method - dollarbill@btinternet.com
+
+
+
+
+
+
+
+09:59 11/04/99
