@@ -1,0 +1,3 @@
+// Character description file
+//voice ""
+gender 1

@@ -1,0 +1,3 @@
+// Character description file
+voice "zombie"
+gender 1
