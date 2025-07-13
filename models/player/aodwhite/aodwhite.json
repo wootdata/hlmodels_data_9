@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 925686572,
 	"events": [
 		{
 			"event": 2001,
@@ -246,7 +248,11 @@
 	],
 	"id": 1414743113,
 	"md5": "bcf77078ee865e96627c52b5bb5f6f14",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "tfc/models/player/spy/spy.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

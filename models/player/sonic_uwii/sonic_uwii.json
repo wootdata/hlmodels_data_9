@@ -43,6 +43,7 @@
 			"name": "Sonic_the_Hegdehog"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -77,6 +78,7 @@
 			"type": 8
 		}
 	],
+	"date": 1678562378,
 	"events": [
 		{
 			"event": 2001,
@@ -186,7 +188,11 @@
 	],
 	"id": 1414743113,
 	"md5": "01bdc3fcca69db472f8d760cd2fda2cb",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "E:\\Escritorio\\Sonic_UWii\\Sonic_UWii.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

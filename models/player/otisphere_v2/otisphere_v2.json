@@ -12,7 +12,9 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
+	"date": 1735453935,
 	"events": [
 		{
 			"event": 2001,
@@ -122,7 +124,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a03db19137f00d7cd5f84c6331b83f46",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Gman.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

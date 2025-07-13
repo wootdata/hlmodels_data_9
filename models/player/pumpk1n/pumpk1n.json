@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 7,
@@ -62,6 +63,7 @@
 			"type": 8
 		}
 	],
+	"date": 1564778802,
 	"events": [
 		{
 			"event": 2001,
@@ -171,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2abfc63544493720c1dd95382d0713e7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "player/Pumpkin/Pumpkin.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -48,6 +48,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -82,6 +83,7 @@
 			"type": 8
 		}
 	],
+	"date": 1690083089,
 	"events": [
 		{
 			"event": 5004,
@@ -345,7 +347,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c466c6b5be80e11785babde894b57a42",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\Yervin\\Documents\\Modelos 3d\\Modelo completo Half-Life\\EL&",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

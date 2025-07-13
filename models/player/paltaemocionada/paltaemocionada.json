@@ -38,6 +38,7 @@
 			"name": "arms"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -72,6 +73,7 @@
 			"type": 8
 		}
 	],
+	"date": 1661292781,
 	"events": [
 		{
 			"event": 2001,
@@ -181,7 +183,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8dc0829681ef3acf75e02e2c1d8e492f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "PaltaEmocionada.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

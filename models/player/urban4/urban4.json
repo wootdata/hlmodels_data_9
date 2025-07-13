@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 1333999444,
 	"events": [
 		{
 			"event": 2001,
@@ -274,7 +276,11 @@
 	],
 	"id": 1414743113,
 	"md5": "18698aab896014255a582508a8881c97",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "urban/urban.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

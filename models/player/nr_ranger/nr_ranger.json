@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 1617654639,
 	"events": [
 		{
 			"event": 2001,
@@ -176,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "459c863f47abd3cf2c0f915b17e77515",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "NR_Ranger.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

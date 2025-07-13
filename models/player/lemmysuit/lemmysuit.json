@@ -38,6 +38,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 7,
@@ -72,6 +73,7 @@
 			"type": 8
 		}
 	],
+	"date": 1527521868,
 	"events": [
 		{
 			"event": 2001,
@@ -181,7 +183,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7274d3d893fac66ce7a5aaecfc3c87f4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "lemmysuit.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 1161017930,
 	"events": [
 		{
 			"event": 2001,
@@ -176,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "11aeec3040c70c2cb7a0107f15c5b981",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Program Files\\Counter-Strike\\valve\\models\\player\\zombie\\zombiX",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

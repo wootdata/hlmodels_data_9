@@ -53,6 +53,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -87,6 +88,7 @@
 			"type": 8
 		}
 	],
+	"date": 1623439654,
 	"events": [
 		{
 			"event": 2001,
@@ -196,7 +198,11 @@
 	],
 	"id": 1414743113,
 	"md5": "92fa8bc841029cf78ce09e221a4cf5e0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "player\\Half-Life\\cssgign.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

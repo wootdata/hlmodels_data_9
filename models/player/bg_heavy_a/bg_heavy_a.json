@@ -23,6 +23,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -57,6 +58,7 @@
 			"type": 8
 		}
 	],
+	"date": 1607968516,
 	"events": [
 		{
 			"event": 2001,
@@ -166,7 +168,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2df3e90ff031c77caf74ee7126e2f940",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "heavy_a.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

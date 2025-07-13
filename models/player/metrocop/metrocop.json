@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 7,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 1464220960,
 	"events": [
 		{
 			"event": 2001,
@@ -176,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6f4c0bb1d5dbfab32f368c286c50a274",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\usuario\\Desktop\\a\\dm_metrocop\\metrocop.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
