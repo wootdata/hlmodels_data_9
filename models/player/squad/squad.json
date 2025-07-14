@@ -175,6 +175,7 @@
 	"md5": "ef64a161ef545dc3545be4d616d2f6ee",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player/squad/squad.mdl",
 	"preview": true,
 	"readme": false,

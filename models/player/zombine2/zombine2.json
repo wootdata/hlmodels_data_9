@@ -146,6 +146,7 @@
 	"md5": "d656c6a5d6d2479b8f43570f23fd10b8",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 0,
 	"name": "zombine.mdl",
 	"preview": true,
 	"readme": false,

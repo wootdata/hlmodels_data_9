@@ -175,6 +175,7 @@
 	"md5": "c202571804345f8ca6a15593d38135af",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/gman/Gman.mdl",
 	"preview": true,
 	"readme": false,
