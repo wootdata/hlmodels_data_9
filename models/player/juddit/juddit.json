@@ -198,7 +198,7 @@
 	"modid": 2,
 	"name": "barney.mdl",
 	"preview": true,
-	"readme": false,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

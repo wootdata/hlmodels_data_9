@@ -149,7 +149,7 @@
 	"modid": 0,
 	"name": "zombine.mdl",
 	"preview": true,
-	"readme": false,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{
