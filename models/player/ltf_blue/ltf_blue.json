@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 24,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 24,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 24,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}
@@ -20,9 +20,9 @@
 		{
 			"models": [
 				{
-					"name": "Prisoner",
-					"polys": 740,
-					"verts": 373
+					"name": "LiandriTrooperFemale",
+					"polys": 2307,
+					"verts": 1334
 				}
 			],
 			"name": "body"
@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1007268368,
+	"date": 1397179640,
 	"events": [
 		{
 			"event": 2001,
@@ -172,18 +172,18 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "a880e03ff912f0cff155daa98a1ebeae",
+	"md5": "cdb90a87345503933d1051d69694abe1",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "C:\\WINDOWS\\Desktop\\Blindeye\\Blindeye.mdl",
-	"preview": true,
+	"name": "ltf.mdl",
+	"preview": false,
 	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
 			"fps": 14.000000,
 			"frames": 31,
-			"name": "look_idle"
+			"name": "Koshak_HL"
 		}, 
 		{
 			"fps": 14.000000,
@@ -566,7 +566,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 501604,
+	"size": 792460,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -641,44 +641,20 @@
 			"parent": 16
 		}, 
 		{
-			"name": "Bip01 L Finger1",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Finger11",
-			"parent": 18
-		}, 
-		{
-			"name": "Bip01 L Finger12",
-			"parent": 19
-		}, 
-		{
 			"name": "Bip01 R Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 21
+			"parent": 18
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 22
+			"parent": 19
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 23
-		}, 
-		{
-			"name": "Bip01 R Finger1",
-			"parent": 24
-		}, 
-		{
-			"name": "Bip01 R Finger11",
-			"parent": 25
-		}, 
-		{
-			"name": "Bip01 R Finger12",
-			"parent": 26
+			"parent": 20
 		}
 	],
 	"skins": 1,
@@ -687,8 +663,20 @@
 		{
 			"flags": 0,
 			"height": 512,
-			"name": "GIGN_DMBASE2.bmp",
+			"name": "LiandriTrooperFemaleBody.bmp",
 			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "LiandriTrooperHeadSM.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 3,
+			"height": 64,
+			"name": "chrome.bmp",
+			"width": 64
 		}
 	],
 	"version": 10

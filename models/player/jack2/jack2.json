@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 24,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 24,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 24,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}
@@ -20,9 +20,9 @@
 		{
 			"models": [
 				{
-					"name": "Prisoner",
-					"polys": 740,
-					"verts": 373
+					"name": "ETacSMD",
+					"polys": 1574,
+					"verts": 849
 				}
 			],
 			"name": "body"
@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1007268368,
+	"date": 1007165246,
 	"events": [
 		{
 			"event": 2001,
@@ -172,10 +172,10 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "a880e03ff912f0cff155daa98a1ebeae",
+	"md5": "a879622c92f49c4b4dd2ff9075d225b1",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "C:\\WINDOWS\\Desktop\\Blindeye\\Blindeye.mdl",
+	"name": "C:\\WINDOWS\\Desktop\\Anton\\Anton.mdl",
 	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
@@ -566,7 +566,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 501604,
+	"size": 545996,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -641,44 +641,20 @@
 			"parent": 16
 		}, 
 		{
-			"name": "Bip01 L Finger1",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Finger11",
-			"parent": 18
-		}, 
-		{
-			"name": "Bip01 L Finger12",
-			"parent": 19
-		}, 
-		{
 			"name": "Bip01 R Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 21
+			"parent": 18
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 22
+			"parent": 19
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 23
-		}, 
-		{
-			"name": "Bip01 R Finger1",
-			"parent": 24
-		}, 
-		{
-			"name": "Bip01 R Finger11",
-			"parent": 25
-		}, 
-		{
-			"name": "Bip01 R Finger12",
-			"parent": 26
+			"parent": 20
 		}
 	],
 	"skins": 1,
@@ -686,9 +662,39 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 512,
-			"name": "GIGN_DMBASE2.bmp",
+			"height": 128,
+			"name": "DC_soldier_misc.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "DC_soldier_skin_wht.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "DC_soldier_torso.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "head_american_3.bmp",
 			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "helmet_eng.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 125,
+			"name": "grenade 128.bmp",
+			"width": 128
 		}
 	],
 	"version": 10
