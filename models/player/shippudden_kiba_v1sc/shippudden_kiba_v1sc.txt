@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : shippudden_kiba
+Source Model Hash : 939b6cb0d8a40de25b45451183cb2fd0
+Source Model Date : 1236345914 (2009/03/06)
+
+Ported Model Name : shippudden_kiba_v1sc
+Ported Model Hash : 00cc0e8836b652304ecf4ebf4b7b10ed
+Ported Model Date : 1752492270 (2025/07/14)

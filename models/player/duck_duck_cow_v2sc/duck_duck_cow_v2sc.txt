@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : duck_duck_cow_v2
+Source Model Hash : 63cdbd8404259ec73cbe93ed260ac463
+Source Model Date : 1583015833 (2020/02/29)
+
+Ported Model Name : duck_duck_cow_v2sc
+Ported Model Hash : c775b3eee8a5ace7cddb3bd473c8967b
+Ported Model Date : 1752491625 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fp_araterror
+Source Model Hash : 4345af7b5e0dacfa8c889fc618d05703
+Source Model Date : 1477779132 (2016/10/29)
+
+Ported Model Name : fp_araterror_v1sc
+Ported Model Hash : 122e1ea1eae81534aa501cc9689a3182
+Ported Model Date : 1752491657 (2025/07/14)

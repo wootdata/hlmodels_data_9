@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fear2_napalmatc
+Source Model Hash : a7f9e3bd19dc3d02a82d8a6b65f47420
+Source Model Date : 1427477166 (2015/03/27)
+
+Ported Model Name : fear2_napalmatc_v1sc
+Ported Model Hash : 4283fefcd293a8cdfc6378ed1d3852b7
+Ported Model Date : 1752491646 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cso_eta
+Source Model Hash : 1558c675aef34c576a51499dd1d81b62
+Source Model Date : 1230997820 (2009/01/03)
+
+Ported Model Name : cso_eta_v1sc
+Ported Model Hash : df87c9221a2e8db892425ad8ef991736
+Ported Model Date : 1752491553 (2025/07/14)

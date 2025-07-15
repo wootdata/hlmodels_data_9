@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rebecca_hev_v2
+Source Model Hash : aadde3fba4e096ff7422f99104215bc1
+Source Model Date : 1455811674 (2016/02/18)
+
+Ported Model Name : rebecca_hev_v2sc
+Ported Model Hash : dbad1485c068e449129503fef162ef0e
+Ported Model Date : 1752492193 (2025/07/14)

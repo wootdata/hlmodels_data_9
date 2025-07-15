@@ -1,0 +1,17 @@
+made_by_winkler
+The Specialists mod
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sf_wolf
+Source Model Hash : 0820b098ba13aff7578435f0ea6d67a1
+Source Model Date : 1466421143 (2016/06/20)
+
+Ported Model Name : sf_wolf_v1sc
+Ported Model Hash : dd5a1d1c40470fca6624eee17e696783
+Ported Model Date : 1752492260 (2025/07/14)

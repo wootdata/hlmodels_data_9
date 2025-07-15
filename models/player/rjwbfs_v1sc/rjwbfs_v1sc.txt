@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rjwbfs
+Source Model Hash : a1030ab20a1599f6d26d1af6932ccb7d
+Source Model Date : 1269359121 (2010/03/23)
+
+Ported Model Name : rjwbfs_v1sc
+Ported Model Hash : 7a658f414184ab5fe6cf94582c1bf753
+Ported Model Date : 1752492218 (2025/07/14)

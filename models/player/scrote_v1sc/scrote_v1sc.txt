@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : scrote
+Source Model Hash : 8acdf2a53a25900dd79425654d1c29b4
+Source Model Date : 1269801833 (2010/03/28)
+
+Ported Model Name : scrote_v1sc
+Ported Model Hash : ef5dba6e426864ffd12c9dfdecb72160
+Ported Model Date : 1752492250 (2025/07/14)

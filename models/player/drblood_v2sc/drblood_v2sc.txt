@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : drblood_v2
+Source Model Hash : 7c2950e039fb04d825943682eaf89bb6
+Source Model Date : 1584082620 (2020/03/12)
+
+Ported Model Name : drblood_v2sc
+Ported Model Hash : 5343cd36b890b6b8afeb8a269ee5c9b2
+Ported Model Date : 1752491622 (2025/07/14)

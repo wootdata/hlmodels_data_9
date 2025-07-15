@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : jake
+Source Model Hash : d685a6a1832a272062dc1457aa669075
+Source Model Date : 1263823984 (2010/01/18)
+
+Ported Model Name : jake_v1sc
+Ported Model Hash : 4e8601c07acd3c9a88cd7722050a5d59
+Ported Model Date : 1752491857 (2025/07/14)

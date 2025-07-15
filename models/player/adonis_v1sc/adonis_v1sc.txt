@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : adonis
+Source Model Hash : 2f4c089a341e8a9be03eac444423de52
+Source Model Date : 1264592707 (2010/01/27)
+
+Ported Model Name : adonis_v1sc
+Ported Model Hash : c15a9c11341dbeb0dbedaf9268609cd9
+Ported Model Date : 1752491332 (2025/07/14)

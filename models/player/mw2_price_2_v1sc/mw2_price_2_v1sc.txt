@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mw2_price_2
+Source Model Hash : b34e126ec33d46635a59773229bf5f04
+Source Model Date : 1281748489 (2010/08/13)
+
+Ported Model Name : mw2_price_2_v1sc
+Ported Model Hash : c4e3d51e457879dfca7314f5498b9034
+Ported Model Date : 1752492053 (2025/07/14)

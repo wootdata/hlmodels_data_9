@@ -1,0 +1,44 @@
+"Nympho" Half-Life Model
+by Kris Hauser (hauser@uclink.berkeley.edu)
+©12-15-1999
+
+365 kbytes and 941 polygons of pure skin, baby.  Shock your enemies as a beautiful, disrobed woman in your multiplayer Half-Life games!
+
+
+
+NOTE: If you are offended by nudity or are not supposed to view such materials, do not install this model.  Otherwise, happy holidays!
+
+
+
+Installation:
+
+To use this model, unzip it into the "valve/models/players" directory in your Half-Life folder.  All these files should then be in a folder named "nympho".
+
+
+
+This model will eventually be used in an upcoming mod, resembling Counterstrike, but rather a fight between college students and Housing and Dining Services.  There will be nude models as the "hostages".  I will be doing all the 3d artwork for this mod.
+
+
+
+I have also made a 2D overhead space combat game, Star Havoc.  It's great.  To download it, go to the SquireSoft homepage below.
+
+SquireSoft Website
+http://squiresoft.web.com/
+
+SquireSoft Email
+squiresoft@web.com
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nympho_v2
+Source Model Hash : 0ba54da50688821d4103e2877a6bb6bf
+Source Model Date : 1590902624 (2020/05/30)
+
+Ported Model Name : nympho_v2sc
+Ported Model Hash : 948b6add8a537fb8e9bab5a1875d803c
+Ported Model Date : 1752492111 (2025/07/14)

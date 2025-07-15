@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : morara
+Source Model Hash : ad0af1bf34362170e4d32b5fad3dfa56
+Source Model Date : 1238865436 (2009/04/04)
+
+Ported Model Name : morara_v1sc
+Ported Model Hash : fb974d300216150df040ddb34e6bc5f4
+Ported Model Date : 1752492041 (2025/07/14)

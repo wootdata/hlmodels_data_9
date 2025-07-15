@@ -1,0 +1,31 @@
+Buttercup (Z version) / Matsubara Kaoru (Normal version)  Ver0.95
+from Demashita! Powerpuff Girls Z
+
+
+animation - ShannonCaldwell(SC team)
+model/skin - masaton
+
+2009 9 19
+Ver0.95
+All fixed, add cap version.
+
+2009 8 25
+Ver0.9
+tenuki
+
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : buttercupz_n
+Source Model Hash : ccfff470ab9c8dc6a91356ba7e0b1d6c
+Source Model Date : 1253292280 (2009/09/18)
+
+Ported Model Name : buttercupz_n_v1sc
+Ported Model Hash : 305380e17f7d7a37dd92856e5a569b77
+Ported Model Date : 1752491456 (2025/07/14)

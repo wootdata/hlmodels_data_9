@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : missing_hev
+Source Model Hash : 72f15efcfbd37b256126331e80c57dc4
+Source Model Date : 1576667468 (2019/12/18)
+
+Ported Model Name : missing_hev_v1sc
+Ported Model Hash : ba3d1f0c8846b839f1521bd674cdadb2
+Ported Model Date : 1752492030 (2025/07/14)

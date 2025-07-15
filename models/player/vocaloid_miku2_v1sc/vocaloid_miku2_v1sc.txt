@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : vocaloid_miku2
+Source Model Hash : 3ac4c7cb38a4041ce42c2edbfef95f42
+Source Model Date : 1489430696 (2017/03/13)
+
+Ported Model Name : vocaloid_miku2_v1sc
+Ported Model Hash : a9f9aae5859c9d31b6112e6b0931242a
+Ported Model Date : 1752492495 (2025/07/14)

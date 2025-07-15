@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mw2_marine_4
+Source Model Hash : 18fe4d920044dcc28e5e435e868b581a
+Source Model Date : 1314072884 (2011/08/22)
+
+Ported Model Name : mw2_marine_4_v1sc
+Ported Model Hash : d6b183c315ef233bffd207b085f3a59a
+Ported Model Date : 1752492052 (2025/07/14)

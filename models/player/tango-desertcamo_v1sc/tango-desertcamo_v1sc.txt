@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tango-desertcamo
+Source Model Hash : 4e0018d52b43baf11829d935fdce4031
+Source Model Date : 1230660106 (2008/12/30)
+
+Ported Model Name : tango-desertcamo_v1sc
+Ported Model Hash : d2f297d038a10e3f9c6cdabcd23f515f
+Ported Model Date : 1752492360 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : saito
+Source Model Hash : 02515c21c6cbd45fe0dc0ce75b49ea40
+Source Model Date : 1269689864 (2010/03/27)
+
+Ported Model Name : saito_v1sc
+Ported Model Hash : ab05ed1916f5f14d80a6305a263a2af1
+Ported Model Date : 1752492232 (2025/07/14)

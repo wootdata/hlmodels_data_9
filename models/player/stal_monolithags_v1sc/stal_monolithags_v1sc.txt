@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : stalker_monolithags
+Source Model Hash : 77d15b7ff6b7f195fb8a753be74d2f9d
+Source Model Date : 1583907265 (2020/03/10)
+
+Ported Model Name : stal_monolithags_v1sc
+Ported Model Hash : fc7352348769007ecc29bea3c73d29b6
+Ported Model Date : 1752492340 (2025/07/14)

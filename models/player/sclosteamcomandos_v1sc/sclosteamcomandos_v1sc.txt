@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sclosteamcomandos
+Source Model Hash : 837924fee2bf322d45b6c8c1050d3946
+Source Model Date : 1538065426 (2018/09/27)
+
+Ported Model Name : sclosteamcomandos_v1sc
+Ported Model Hash : 157142c4cd7ee0ca8d2e26ad224271a7
+Ported Model Date : 1752492248 (2025/07/14)

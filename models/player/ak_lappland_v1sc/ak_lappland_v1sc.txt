@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : arknights_lappland
+Source Model Hash : a4964644c00a49974ac92eafc8b4275f
+Source Model Date : 1647760984 (2022/03/20)
+
+Ported Model Name : ak_lappland_v1sc
+Ported Model Hash : b339b0e10505bfcbbef5a5a959f4ec86
+Ported Model Date : 1752491370 (2025/07/14)

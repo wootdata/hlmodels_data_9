@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hoe_mikeforce7
+Source Model Hash : c4fccada62e69e5d5be6ec5cb33e9e54
+Source Model Date : 1236541358 (2009/03/08)
+
+Ported Model Name : hoe_mikeforce7_v1sc
+Ported Model Hash : 2a2bc592c25056579e8fde62e12601ca
+Ported Model Date : 1752491810 (2025/07/14)

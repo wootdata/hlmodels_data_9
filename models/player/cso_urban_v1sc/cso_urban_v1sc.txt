@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cso_urban
+Source Model Hash : c8c9548aad6156accf8793f74e1e1417
+Source Model Date : 1231001264 (2009/01/03)
+
+Ported Model Name : cso_urban_v1sc
+Ported Model Hash : ce2c2f3c9cbff7b88b52d380d686b34a
+Ported Model Date : 1752491556 (2025/07/14)

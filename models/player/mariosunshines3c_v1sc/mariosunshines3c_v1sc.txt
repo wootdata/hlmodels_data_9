@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mariosunshines3c
+Source Model Hash : 26325f942fc76f015d38b1df6d115980
+Source Model Date : 1681841788 (2023/04/18)
+
+Ported Model Name : mariosunshines3c_v1sc
+Ported Model Hash : f3494dd033ea0cc174277fdf5d2a9165
+Ported Model Date : 1752491988 (2025/07/14)

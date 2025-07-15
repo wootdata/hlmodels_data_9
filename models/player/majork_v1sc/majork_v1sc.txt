@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : majork
+Source Model Hash : a4e24c5bca5c13ec289bd18595b773e2
+Source Model Date : 1266054206 (2010/02/13)
+
+Ported Model Name : majork_v1sc
+Ported Model Hash : ef7ab4895c69e99b19d1f43bd23a9e66
+Ported Model Date : 1752491982 (2025/07/14)

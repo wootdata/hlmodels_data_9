@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cyberzuna
+Source Model Hash : 57df27d4a1fa34e797305ae16fce4b97
+Source Model Date : 1646009860 (2022/02/27)
+
+Ported Model Name : cyberzuna_v1sc
+Ported Model Hash : 7d146cd2900eeb89baae61c939645342
+Ported Model Date : 1752491572 (2025/07/14)

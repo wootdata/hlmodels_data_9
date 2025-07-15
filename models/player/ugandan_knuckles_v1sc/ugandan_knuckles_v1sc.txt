@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ugandan_knuckles
+Source Model Hash : 934b74a356126d7819e0b6b9e0cf7158
+Source Model Date : 1516995911 (2018/01/26)
+
+Ported Model Name : ugandan_knuckles_v1sc
+Ported Model Hash : 4186e8e7821680b1831ee211b1c2bebe
+Ported Model Date : 1752492471 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : neuronkeen
+Source Model Hash : 8e1e55d243a8b4e56ebd895a43b00945
+Source Model Date : 1417649632 (2014/12/03)
+
+Ported Model Name : neuronkeen_v1sc
+Ported Model Hash : 5167fdd3ef75a2cd659e0b38bc03096a
+Ported Model Date : 1752492091 (2025/07/14)

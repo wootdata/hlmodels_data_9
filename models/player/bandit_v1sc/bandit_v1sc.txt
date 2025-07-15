@@ -1,0 +1,26 @@
+S.T.A.L.K.E.R. Bandit Pack for Sven Coop Mod
+
+credits: 
+Models: S.T.A.L.K.E.R.
+Textures: S.T.A.L.K.E.R.
+First compile (on barney skeleton): Nige111
+Final hack & compile for Sven Coop: Napoleon
+
+This model pack was requested on H.I.T. so I have desided to make it. The S.T.A.L.K.E.R. model (Bandit) was originally rigged by Nige111. I (Napoleon) have hacked it for use in Sven Coop mod. (I hope he won't mind)
+
+Enjoy using this pack. In order to se it, keep this file with the models (five mdl files!)
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bandit
+Source Model Hash : d85fac22d4ad068feb905f7136ee48ab
+Source Model Date : 1424453863 (2015/02/20)
+
+Ported Model Name : bandit_v1sc
+Ported Model Hash : 729ffdfd34ba5cb0904cf323232532ed
+Ported Model Date : 1752491400 (2025/07/14)

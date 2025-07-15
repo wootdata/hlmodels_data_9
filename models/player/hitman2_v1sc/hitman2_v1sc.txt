@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hitman2
+Source Model Hash : a91cdabc3e4058bbc62d9e60dbbdce96
+Source Model Date : 1269095918 (2010/03/20)
+
+Ported Model Name : hitman2_v1sc
+Ported Model Hash : 214105996ae9c31c3507d391c3d77744
+Ported Model Date : 1752491797 (2025/07/14)

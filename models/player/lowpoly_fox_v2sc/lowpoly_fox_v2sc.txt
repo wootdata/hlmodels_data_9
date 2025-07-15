@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lowpoly_fox_v2
+Source Model Hash : 4dd0ce48b6528384fbeb1dbc24ac3c3c
+Source Model Date : 1682793226 (2023/04/29)
+
+Ported Model Name : lowpoly_fox_v2sc
+Ported Model Hash : b15bba3a88bb5b117a197b8689466a65
+Ported Model Date : 1752491964 (2025/07/14)

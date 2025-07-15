@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_kc_northern
+Source Model Hash : bb56ee766538906affc1a08ac75eb8fe
+Source Model Date : 1542272436 (2018/11/15)
+
+Ported Model Name : 2d_kc_northern_v1sc
+Ported Model Hash : ed861ba6fefdb8ccde207809d96e1918
+Ported Model Date : 1752491313 (2025/07/14)

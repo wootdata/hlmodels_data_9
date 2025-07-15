@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : inf_gruppen_v2
+Source Model Hash : 61a2a0c63bcfa00268ab52d2b6384b44
+Source Model Date : 1583893810 (2020/03/10)
+
+Ported Model Name : inf_gruppen_v2sc
+Ported Model Hash : 2b0c0ae4c50bc4c91957f63869a7f82b
+Ported Model Date : 1752491844 (2025/07/14)

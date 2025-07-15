@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : projectx
+Source Model Hash : feee59a9378b71405f8440531421aeb8
+Source Model Date : 1265807407 (2010/02/10)
+
+Ported Model Name : projectx_v1sc
+Ported Model Hash : d15a0800f53db0181e1511ec09ec0528
+Ported Model Date : 1752492169 (2025/07/14)

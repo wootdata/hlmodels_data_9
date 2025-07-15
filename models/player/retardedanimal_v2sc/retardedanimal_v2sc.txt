@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : retardedanimal_v2
+Source Model Hash : a130d9533f5fa2933ba931f9fe5688fa
+Source Model Date : 1583729682 (2020/03/08)
+
+Ported Model Name : retardedanimal_v2sc
+Ported Model Hash : c53d2332e46d4718f33a206f64fdcac1
+Ported Model Date : 1752492201 (2025/07/14)

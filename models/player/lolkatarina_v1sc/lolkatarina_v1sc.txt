@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lolkatarina
+Source Model Hash : c2c975a9167cba6304040722335bdfc1
+Source Model Date : 1634428164 (2021/10/16)
+
+Ported Model Name : lolkatarina_v1sc
+Ported Model Hash : fa83562b21c7f70278c50d8d8486e010
+Ported Model Date : 1752491958 (2025/07/14)

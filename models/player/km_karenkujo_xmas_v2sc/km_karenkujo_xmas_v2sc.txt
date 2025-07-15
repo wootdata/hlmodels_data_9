@@ -1,0 +1,16 @@
+reskin made by ryor, based on player model made by snekky. why did you unlist it on gamebanana? :(
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : km_karenkujo_xmas_v2
+Source Model Hash : 85ed36be01bfb4f1ae55ec1ed0ba3762
+Source Model Date : 1701447542 (2023/12/01)
+
+Ported Model Name : km_karenkujo_xmas_v2sc
+Ported Model Hash : 808c0ebfbb1d4e91802f8f7cdac6e135
+Ported Model Date : 1752491904 (2025/07/14)

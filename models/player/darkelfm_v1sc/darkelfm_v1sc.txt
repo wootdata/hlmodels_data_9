@@ -1,0 +1,17 @@
+Converted from
+The Elder Scrolls 3: Morrowind
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : darkelfm
+Source Model Hash : fc9e30fcbdfdbe6bb53e1132dbbbd08d
+Source Model Date : 1426503675 (2015/03/16)
+
+Ported Model Name : darkelfm_v1sc
+Ported Model Hash : 33fe9048e1e58d9f42a6258e1265fa5a
+Ported Model Date : 1752491579 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cloud_ac
+Source Model Hash : 958986185a72f3f4a4f6233c3081caea
+Source Model Date : 1268315787 (2010/03/11)
+
+Ported Model Name : cloud_ac_v1sc
+Ported Model Hash : 1e81aae9cc506a4399c3126d8e11035c
+Ported Model Date : 1752491483 (2025/07/14)

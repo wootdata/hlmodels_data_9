@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ship_redsuit
+Source Model Hash : 0ae3fd24e8959ee9a972af59f86d0d37
+Source Model Date : 1269858986 (2010/03/29)
+
+Ported Model Name : ship_redsuit_v1sc
+Ported Model Hash : a18b91659755a905d1e11b3c1dec0f06
+Ported Model Date : 1752492272 (2025/07/14)

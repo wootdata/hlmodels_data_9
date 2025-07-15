@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : forrestspeyer
+Source Model Hash : fd0e8099acc61f933771d43ae4091bb9
+Source Model Date : 1263754329 (2010/01/17)
+
+Ported Model Name : forrestspeyer_v1sc
+Ported Model Hash : da82172788530c85e9a5d40c79d5868d
+Ported Model Date : 1752491655 (2025/07/14)

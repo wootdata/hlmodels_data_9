@@ -1,0 +1,24 @@
+
+klaymen by payampap
+report to payampap@att.net
+==========================
+klaymen is a character from the neverhood ,skull monkeys and boombots.
+soft textures.
+replace model (xx.mdl & xxT.mdl) in your player models directory. rename model to your favplayerskin ( dont forget TEXMODEL)
+==========================
+have fUn!!
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : klaymen
+Source Model Hash : 2a38a4fec7b0451107f86f134d02921f
+Source Model Date : 1491737851 (2017/04/09)
+
+Ported Model Name : klaymen_v1sc
+Ported Model Hash : fbed71ae38f69c6de1ee7622b674d935
+Ported Model Date : 1752491895 (2025/07/14)

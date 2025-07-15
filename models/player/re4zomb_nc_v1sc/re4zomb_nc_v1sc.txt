@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : re4zomb_nc
+Source Model Hash : a597ede48a104a509cdb4ce7bc1f4bac
+Source Model Date : 1236276084 (2009/03/05)
+
+Ported Model Name : re4zomb_nc_v1sc
+Ported Model Hash : 5c14d6eb3f2a337cc90e37acce6d0ae9
+Ported Model Date : 1752492192 (2025/07/14)

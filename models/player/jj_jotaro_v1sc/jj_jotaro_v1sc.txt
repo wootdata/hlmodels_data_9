@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : jj_jotaro
+Source Model Hash : cb3d3303466f3720f8656430b2097a16
+Source Model Date : 1572853242 (2019/11/03)
+
+Ported Model Name : jj_jotaro_v1sc
+Ported Model Hash : 1c012ef43becd79b46d7c10425c30de7
+Ported Model Date : 1752491863 (2025/07/14)

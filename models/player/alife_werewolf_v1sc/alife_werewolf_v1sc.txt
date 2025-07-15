@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : afterlife_werewolf
+Source Model Hash : bb2da153ae95176185538b89b2818f1a
+Source Model Date : 1483813334 (2017/01/07)
+
+Ported Model Name : alife_werewolf_v1sc
+Ported Model Hash : d324910f5ac5c757863cf1a3956a72ac
+Ported Model Date : 1752491337 (2025/07/14)

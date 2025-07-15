@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : carter_v2
+Source Model Hash : b42e8c518c95254de052669ffedad3c7
+Source Model Date : 1523997203 (2018/04/17)
+
+Ported Model Name : carter_v2sc
+Ported Model Hash : abe12a75a2055cdf2d42aa7ca355aa30
+Ported Model Date : 1752491463 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pedro
+Source Model Hash : b8e4ecd3560cebf03268bb79877d589b
+Source Model Date : 1310522662 (2011/07/12)
+
+Ported Model Name : pedro_v1sc
+Ported Model Hash : c3a613a37a01e5be22460984e9ed572d
+Ported Model Date : 1752492152 (2025/07/14)

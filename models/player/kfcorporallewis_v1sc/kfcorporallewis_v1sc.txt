@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kfcorporallewis
+Source Model Hash : 4575dbb3f82e0207d531dc5b31606a8d
+Source Model Date : 1313822646 (2011/08/19)
+
+Ported Model Name : kfcorporallewis_v1sc
+Ported Model Hash : 8e4a61efae01ac81bc8c8d229824344b
+Ported Model Date : 1752491881 (2025/07/14)

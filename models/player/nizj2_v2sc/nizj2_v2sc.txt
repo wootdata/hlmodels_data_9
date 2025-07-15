@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nizj2_v2
+Source Model Hash : fb22a3c75ff5b08e1160c3fca89882f3
+Source Model Date : 1583388922 (2020/03/04)
+
+Ported Model Name : nizj2_v2sc
+Ported Model Hash : 2036cf84cacdc38307546a5d4e6964a7
+Ported Model Date : 1752492097 (2025/07/14)

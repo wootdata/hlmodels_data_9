@@ -1,0 +1,41 @@
+XenoAisam
+Romka
+Lt C
+Nirrti
+Mosquito
+Gmod4Ever
+Aeon
+peterboi
+tunderera
+Moi
+ShoTGuNGuY49
+calle7113
+Patrik "DoktorAce" Liljecratz
+Sven co-op 2 team
+CosmicBreak
+CyberStep, Inc.
+Animasa
+Team Ruchiru
+Master circuit
+chiyoki
+Sam Za Nemesis
+M4xf1v3
+Renard
+SHL Team
+VALVe
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kasane_teto_v2
+Source Model Hash : fb9ca03c974c39e303cda250c922955e
+Source Model Date : 1465454227 (2016/06/08)
+
+Ported Model Name : kasane_teto_v2sc
+Ported Model Hash : f0d831e5f3229dca8fb6fc0cb3d9a008
+Ported Model Date : 1752491872 (2025/07/14)

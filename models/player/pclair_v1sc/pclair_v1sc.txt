@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pclair
+Source Model Hash : 13d46dd1297b058291fcc263ef81fb8b
+Source Model Date : 1623230888 (2021/06/09)
+
+Ported Model Name : pclair_v1sc
+Ported Model Hash : bb3e41762866f4cfb95b7498177a5020
+Ported Model Date : 1752492149 (2025/07/14)

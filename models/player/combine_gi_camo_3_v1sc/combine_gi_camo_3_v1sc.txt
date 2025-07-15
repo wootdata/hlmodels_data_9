@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : combine_soldier_camo_3
+Source Model Hash : 4fed4ca82c2deca934c2d4a0fdf80876
+Source Model Date : 1458273500 (2016/03/17)
+
+Ported Model Name : combine_gi_camo_3_v1sc
+Ported Model Hash : e0ca40c72a9344c5937ce2f3b617b0d7
+Ported Model Date : 1752491517 (2025/07/14)

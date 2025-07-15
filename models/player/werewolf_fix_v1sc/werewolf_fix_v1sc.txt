@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : werewolf_fix
+Source Model Hash : 76af85e8c2232fdff63476adb7a1ae4d
+Source Model Date : 1509391011 (2017/10/30)
+
+Ported Model Name : werewolf_fix_v1sc
+Ported Model Hash : c6388f76351054ba2b79df2def18b738
+Ported Model Date : 1752492505 (2025/07/14)

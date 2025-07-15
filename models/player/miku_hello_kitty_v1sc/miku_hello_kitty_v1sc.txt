@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : miku_hello_kitty
+Source Model Hash : 0fe1f5099220c161a75a5d7cd30dca79
+Source Model Date : 1697181626 (2023/10/13)
+
+Ported Model Name : miku_hello_kitty_v1sc
+Ported Model Hash : c757167b3df06e6fc1a2d1f5b84b8854
+Ported Model Date : 1752492023 (2025/07/14)

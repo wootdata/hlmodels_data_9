@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : krotchy_wisewang
+Source Model Hash : e7a650d1e5e6e0614899b534c1446456
+Source Model Date : 1675747042 (2023/02/06)
+
+Ported Model Name : krotchy_wisewang_v1sc
+Ported Model Hash : 31d696c80fae18c58ca8eb8271c6c141
+Ported Model Date : 1752491910 (2025/07/14)

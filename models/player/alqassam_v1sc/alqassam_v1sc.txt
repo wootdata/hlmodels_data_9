@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : alqassam
+Source Model Hash : 7df1d2dcefad9c501b581582a191763d
+Source Model Date : 1696719909 (2023/10/07)
+
+Ported Model Name : alqassam_v1sc
+Ported Model Hash : 643a0eded1168fc572e2f8c15b095a17
+Ported Model Date : 1752491355 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : iron_man
+Source Model Hash : 0dcd7e4888e984112fc3e61851121b6e
+Source Model Date : 1455995473 (2016/02/20)
+
+Ported Model Name : iron_man_v1sc
+Ported Model Hash : e9ffe6440cb706cf898ab559cb2c57d3
+Ported Model Date : 1752491851 (2025/07/14)

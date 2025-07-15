@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lovedoll3
+Source Model Hash : d32ef5b4c840baf3b7918149f5f033df
+Source Model Date : 1590882148 (2020/05/30)
+
+Ported Model Name : lovedoll3_v1sc
+Ported Model Hash : 097bb1d2768fd71fe4ec85d550596312
+Ported Model Date : 1752491963 (2025/07/14)

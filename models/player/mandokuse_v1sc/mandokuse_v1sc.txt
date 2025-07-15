@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mandokuse
+Source Model Hash : c1c98f303cefd7e5b772c4a1699a04f1
+Source Model Date : 1266057579 (2010/02/13)
+
+Ported Model Name : mandokuse_v1sc
+Ported Model Hash : ec7e13cf63d4cd261f70654d73512743
+Ported Model Date : 1752491984 (2025/07/14)

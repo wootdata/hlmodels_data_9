@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nina3
+Source Model Hash : 3c7a4e7454ea1c979bbed070b53f8333
+Source Model Date : 1265636720 (2010/02/08)
+
+Ported Model Name : nina3_v1sc
+Ported Model Hash : ca6cfc032431aa6eb05dced4b12fbbb1
+Ported Model Date : 1752492095 (2025/07/14)

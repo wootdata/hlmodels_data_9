@@ -1,0 +1,29 @@
+Well, the title says all. Yes this is Heart of Evil Napalm Edition Content (the characters) hacked for Half-Life / Opposing Force and Sven Coop player models. Why I'm making this? Since I love this mod, and I would like to play with those models in HL/OP & SC. Since I think there are many SC/HL lovers that would like to see those awesome models in HL and SC. I have hacked those models long ago, but I haven't released them up until now since I just got permission from Saxon to release them. I hope you like them.
+
+
+Body Meshes: Valve / Saxon / Editor321
+Body textures by Wonrz
+Head Textures by Saxon
+Hacked for HL/SC by Napoleon
+Model overviews: Napoleon
+
+Those models will work for Half - Lfe, Sven Coop and Opposing Force. They have corresponding overviews for ingame model selection.
+
+All models remain property of their original owners. In order to modify them you have to ask them first for permission.
+
+Models copyright:  	Heart of Evil Napalm Edition Team.
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mfboonie
+Source Model Hash : a4cea41cf066159c4c4d58e866a23fa2
+Source Model Date : 1248641642 (2009/07/26)
+
+Ported Model Name : mfboonie_v1sc
+Ported Model Hash : 2b26c47b81d01283fb4a0ab796e3f1d1
+Ported Model Date : 1752492006 (2025/07/14)

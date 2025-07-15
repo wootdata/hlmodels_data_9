@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dboy_v2
+Source Model Hash : 8889e1fb7c52973b4e9e27734ed02f0f
+Source Model Date : 1583565822 (2020/03/06)
+
+Ported Model Name : dboy_v2sc
+Ported Model Hash : 85e88e0d9f5ccca6b1eef17cd5a6bacc
+Ported Model Date : 1752491589 (2025/07/14)

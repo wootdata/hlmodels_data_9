@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_bwtgs_sana
+Source Model Hash : c14a8a5ebe8f19a7007f3334523f4062
+Source Model Date : 1542365736 (2018/11/16)
+
+Ported Model Name : 2d_bwtgs_sana_v1sc
+Ported Model Hash : b8a4a8fc7f3a81eb2e2be04fb46447d5
+Ported Model Date : 1752491305 (2025/07/14)

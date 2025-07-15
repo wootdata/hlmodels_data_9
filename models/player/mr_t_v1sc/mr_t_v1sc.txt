@@ -1,0 +1,30 @@
+Rolanld McDonald --12/02/1999
+
+Based on Valve's Scientist model, but way tweaked in MilkShape.
+I just thought it would be a gas. The skin is weak, so I encourage
+you skinners out there to add more life to old ronny.
+
+#vertices:   814
+#triangles:  1594
+#groups:   4
+#bones:  28
+#materials:   2
+sgroups: 1
+
+PunkAss
+christopher@creth.com
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mr_t
+Source Model Hash : 2f2e22fee16c5ea034fd4652765777bb
+Source Model Date : 1429710868 (2015/04/22)
+
+Ported Model Name : mr_t_v1sc
+Ported Model Hash : 04a62ae36faca88cae36caca5b7723a4
+Ported Model Date : 1752492047 (2025/07/14)

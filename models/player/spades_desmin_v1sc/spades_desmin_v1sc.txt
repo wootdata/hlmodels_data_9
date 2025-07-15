@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : spades_desmin
+Source Model Hash : dafc81fc44d1a42a93ad3ab3ed82d5fc
+Source Model Date : 1269932593 (2010/03/30)
+
+Ported Model Name : spades_desmin_v1sc
+Ported Model Hash : 82d0d7b54562aae2c89c9d2dd1f80d64
+Ported Model Date : 1752492304 (2025/07/14)

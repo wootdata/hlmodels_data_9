@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cso_sdefence
+Source Model Hash : 51ebd6c3e77e3d74f961a813a5fed6ff
+Source Model Date : 1230999798 (2009/01/03)
+
+Ported Model Name : cso_sdefence_v1sc
+Ported Model Hash : 24ec8e6fbbd2dd8977987fe2aa6eb235
+Ported Model Date : 1752491556 (2025/07/14)

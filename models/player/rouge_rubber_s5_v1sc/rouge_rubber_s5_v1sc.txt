@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rouge_rubber_s5
+Source Model Hash : 959775260f4bd10f066949bb9658f69a
+Source Model Date : 1455584273 (2016/02/15)
+
+Ported Model Name : rouge_rubber_s5_v1sc
+Ported Model Hash : 5a556b778884cf5fc3b72487606456db
+Ported Model Date : 1752492222 (2025/07/14)

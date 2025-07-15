@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sillyfun
+Source Model Hash : 72b7e174299ee04e0ff17cc935509c37
+Source Model Date : 1681021507 (2023/04/08)
+
+Ported Model Name : sillyfun_v1sc
+Ported Model Hash : dd71ae7327cd58ccae98ac386354c0d9
+Ported Model Date : 1752492276 (2025/07/14)

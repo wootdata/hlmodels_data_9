@@ -1,0 +1,23 @@
+This model is made by MajinZGohan(a.k.a LunarWolfX)  Feel free to edit this model, just as long
+as you give proper credits to me.
+
+Credits to the t.s team for the skel, and everyone on the esf forums, ntp forums, and zeq2 forums
+for their criticism and comments.  
+
+INSTALL- to install, just place the sasuke folder in the models/player folder, and run t.s
+and go to customize.  Then pick sasuke as your model.
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sasuke
+Source Model Hash : fe37c6a68debc287f5c972754afce9c3
+Source Model Date : 1269694160 (2010/03/27)
+
+Ported Model Name : sasuke_v1sc
+Ported Model Hash : 6366f6761fe3265c4ab4a542c3ee8ea7
+Ported Model Date : 1752492238 (2025/07/14)

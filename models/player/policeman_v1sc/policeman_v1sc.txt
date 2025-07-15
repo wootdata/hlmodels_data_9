@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : policeman
+Source Model Hash : 714ccd7c115b2c5a7c1ebe3fdbbb6945
+Source Model Date : 1590988340 (2020/05/31)
+
+Ported Model Name : policeman_v1sc
+Ported Model Hash : c34dd58bf429434e293816f46faa6712
+Ported Model Date : 1752492162 (2025/07/14)

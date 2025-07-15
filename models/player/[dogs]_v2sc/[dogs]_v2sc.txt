@@ -1,0 +1,28 @@
+Maker: Evan Gluck
+
+Program Used: Milkshape 3d
+
+Stats: Vertices: 372  
+       Triangles: 603 
+
+Subject Matter: Rett, the mascot for Boston University.
+He is a Boston Terrier, if you want to see what the real Rett looks like chechout www.gobu.com
+for a picture of Rett.  Sorry if he is a little too tall, his head is kinda big.
+Try to imagine that he is a guy in a character suit, like the kind you see at Disney World.
+So if you ever shot mickey mouse in the head, youd actually be missing whoever was inside the suit.
+Try to imagiune that this is what is going on here if you will.  
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : [dogs]_v2
+Source Model Hash : defc543b5acaf4e63ead71f31f16e2c3
+Source Model Date : 1584004087 (2020/03/12)
+
+Ported Model Name : [dogs]_v2sc
+Ported Model Hash : bcafa31666628cb3125927a028ed5b6a
+Ported Model Date : 1752492538 (2025/07/14)

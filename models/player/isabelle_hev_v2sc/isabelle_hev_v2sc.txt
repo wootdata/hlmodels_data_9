@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : isabelle_hev_v2
+Source Model Hash : 30c5eb54be535d4d72ef9033df234baa
+Source Model Date : 1455811381 (2016/02/18)
+
+Ported Model Name : isabelle_hev_v2sc
+Ported Model Hash : f280199e1726a49c83bcae85668efeb2
+Ported Model Date : 1752491852 (2025/07/14)

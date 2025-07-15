@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : syphon_v2
+Source Model Hash : c88ff881a0c0ad6944effd2765cbc0e9
+Source Model Date : 1330288158 (2012/02/26)
+
+Ported Model Name : syphon_v2sc
+Ported Model Hash : 78d1d2fe04995d08718e764d1095fcc8
+Ported Model Date : 1752492356 (2025/07/14)

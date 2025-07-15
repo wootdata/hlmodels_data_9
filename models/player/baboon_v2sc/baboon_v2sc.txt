@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : baboon_v2
+Source Model Hash : 650c1aee0eacf231d0be8bfcf490ed00
+Source Model Date : 1590442670 (2020/05/25)
+
+Ported Model Name : baboon_v2sc
+Ported Model Hash : d158c2f39a346a84823f674e9cdd2ace
+Ported Model Date : 1752491396 (2025/07/14)

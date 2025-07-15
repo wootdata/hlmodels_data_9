@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : toxic
+Source Model Hash : 088ffdcbacef7d6dccf4878cd3f1525c
+Source Model Date : 1267638742 (2010/03/03)
+
+Ported Model Name : toxic_v1sc
+Ported Model Hash : 36f814d8c62338887ea451850047b5ca
+Ported Model Date : 1752492453 (2025/07/14)

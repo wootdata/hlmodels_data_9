@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : max_payne
+Source Model Hash : 9851e598944acb9b6904aa4a077f8724
+Source Model Date : 1468457947 (2016/07/13)
+
+Ported Model Name : max_payne_v1sc
+Ported Model Hash : db2d32f00fd3b7939d6cafdd39f5fec3
+Ported Model Date : 1752491993 (2025/07/14)

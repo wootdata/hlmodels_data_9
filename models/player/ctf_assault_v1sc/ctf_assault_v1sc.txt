@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ctf_assault
+Source Model Hash : acf22d0e947fcfcf1ad8551e652efe72
+Source Model Date : 1549733631 (2019/02/09)
+
+Ported Model Name : ctf_assault_v1sc
+Ported Model Hash : 037a3f1a7fff0fe2d95905453f43bb5b
+Ported Model Date : 1752491568 (2025/07/14)

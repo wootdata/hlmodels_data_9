@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : shippudden_neji
+Source Model Hash : 328fefec240eac65276ee0054697e747
+Source Model Date : 1236345856 (2009/03/06)
+
+Ported Model Name : shippudden_neji_v1sc
+Ported Model Hash : f95712e1965687d282706b1571457326
+Ported Model Date : 1752492270 (2025/07/14)

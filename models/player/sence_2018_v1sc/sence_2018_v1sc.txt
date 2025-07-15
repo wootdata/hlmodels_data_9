@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sence_2018
+Source Model Hash : 0551338617070b1ec67eeecb8acf39c6
+Source Model Date : 1516220529 (2018/01/17)
+
+Ported Model Name : sence_2018_v1sc
+Ported Model Hash : 874b2d19c6c243e24f15bc35f2faa72f
+Ported Model Date : 1752492258 (2025/07/14)

@@ -1,0 +1,16 @@
+GAARA54
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : blabla_robot
+Source Model Hash : de0c1a27c3bd68de351f87723dc2abbf
+Source Model Date : 1491737851 (2017/04/09)
+
+Ported Model Name : blabla_robot_v1sc
+Ported Model Hash : fbd6b63672008354141547388a0cb02c
+Ported Model Date : 1752491431 (2025/07/14)

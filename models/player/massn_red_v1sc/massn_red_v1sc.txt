@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : massn_red
+Source Model Hash : 2aa6855adc5880baf4969d6fc9ba538e
+Source Model Date : 1579696080 (2020/01/22)
+
+Ported Model Name : massn_red_v1sc
+Ported Model Hash : 24a42d222f9876cdcc0e0c471b75b06c
+Ported Model Date : 1752491991 (2025/07/14)

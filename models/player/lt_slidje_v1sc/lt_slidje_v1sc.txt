@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lt_slidje
+Source Model Hash : fa68eb69646b6550653fb1051dd202ef
+Source Model Date : 1622850636 (2021/06/04)
+
+Ported Model Name : lt_slidje_v1sc
+Ported Model Hash : b8e3f83919b55fd91a236878352b9ceb
+Ported Model Date : 1752491970 (2025/07/14)

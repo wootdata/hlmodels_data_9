@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dagoth_ur
+Source Model Hash : 5e3a9e79703b1031e98260d9fb7838fe
+Source Model Date : 1740507127 (2025/02/25)
+
+Ported Model Name : dagoth_ur_v1sc
+Ported Model Hash : 3972f9600c4ec84eef8274f6ca5af4a7
+Ported Model Date : 1752491575 (2025/07/14)

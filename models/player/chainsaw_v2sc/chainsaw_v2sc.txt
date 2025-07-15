@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : chainsaw_v2
+Source Model Hash : 1c8f6d5d92dcba3490add6c7c32750d9
+Source Model Date : 1583823951 (2020/03/10)
+
+Ported Model Name : chainsaw_v2sc
+Ported Model Hash : 9e5ed4a17556cb066b407119bc9e0df0
+Ported Model Date : 1752491466 (2025/07/14)

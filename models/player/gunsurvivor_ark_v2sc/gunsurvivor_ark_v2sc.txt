@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gunsurvivor_ark_v2
+Source Model Hash : a872858203997196583dae9f8b29e9a1
+Source Model Date : 1583888469 (2020/03/10)
+
+Ported Model Name : gunsurvivor_ark_v2sc
+Ported Model Hash : dcc0d6f73a7a05b0ed3c3ec45d30a103
+Ported Model Date : 1752491756 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : devilhelmet_v2
+Source Model Hash : d1c4111dcdc5932bc7b919497e6fa3a7
+Source Model Date : 1583565415 (2020/03/06)
+
+Ported Model Name : devilhelmet_v2sc
+Ported Model Hash : 1b697724029898cfb6b75de4150f83f0
+Ported Model Date : 1752491595 (2025/07/14)

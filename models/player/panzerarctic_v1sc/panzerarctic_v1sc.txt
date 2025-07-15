@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : panzerarctic
+Source Model Hash : a480c7bf1ec0a2a91dc7eaed2d8cf4f5
+Source Model Date : 1583905256 (2020/03/10)
+
+Ported Model Name : panzerarctic_v1sc
+Ported Model Hash : 37677189372b783a0573c6242cf3b9dd
+Ported Model Date : 1752492142 (2025/07/14)

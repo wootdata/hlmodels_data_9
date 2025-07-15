@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : wu-tangclan-girl
+Source Model Hash : c4408375b67bcabda9c6917f58ad68cd
+Source Model Date : 1263413322 (2010/01/13)
+
+Ported Model Name : wu-tangclan-girl_v1sc
+Ported Model Hash : 2ea1503512e3df4b01e76a60f5ec50a8
+Ported Model Date : 1752492513 (2025/07/14)

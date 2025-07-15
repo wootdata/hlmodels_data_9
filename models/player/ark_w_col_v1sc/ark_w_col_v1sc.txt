@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ark_w_col
+Source Model Hash : b369cacdcd037a6653160321d431a519
+Source Model Date : 1699198573 (2023/11/05)
+
+Ported Model Name : ark_w_col_v1sc
+Ported Model Hash : a883421c9918f90dd4c002703e08b89c
+Ported Model Date : 1752491376 (2025/07/14)

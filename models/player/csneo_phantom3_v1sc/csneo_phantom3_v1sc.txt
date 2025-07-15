@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : csneo_phantom3
+Source Model Hash : 3acea1a5860819a0359d59e5817ad287
+Source Model Date : 1622923156 (2021/06/05)
+
+Ported Model Name : csneo_phantom3_v1sc
+Ported Model Hash : 031f7b7e9a8f472a9cb2959bfa42cdef
+Ported Model Date : 1752491550 (2025/07/14)

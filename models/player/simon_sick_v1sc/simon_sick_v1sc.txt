@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : simon_sick
+Source Model Hash : da1ddb217243a4b9d6949bce3ff0528b
+Source Model Date : 1455995478 (2016/02/20)
+
+Ported Model Name : simon_sick_v1sc
+Ported Model Hash : f71e31d4f904b4817e2b8a0420508abf
+Ported Model Date : 1752492278 (2025/07/14)

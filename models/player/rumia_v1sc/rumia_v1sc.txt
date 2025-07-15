@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rumia
+Source Model Hash : 54734f8b03ba9a7cebe7eb384b189185
+Source Model Date : 1458602760 (2016/03/21)
+
+Ported Model Name : rumia_v1sc
+Ported Model Hash : cd8d1005b1a7ac7832e78c44a99df4b9
+Ported Model Date : 1752492225 (2025/07/14)

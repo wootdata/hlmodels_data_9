@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : aswat_8bit
+Source Model Hash : f6cd5c89b41b900f0dd38c835c4c2fe7
+Source Model Date : 1428971618 (2015/04/13)
+
+Ported Model Name : aswat_8bit_v1sc
+Ported Model Hash : ca77f030a3e32a9553e00e8351b1a266
+Ported Model Date : 1752491385 (2025/07/14)

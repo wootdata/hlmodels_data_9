@@ -1,0 +1,32 @@
+The second in a series of stupid models.
+This is my friend Ohuk Poopadoochii... he likes golf.... 'nuff said.
+
+Programs Used : Lightwave 6.5 (modeler)
+		Milkshape 1.5.6
+		Adobe Photoshop 6.0
+		Virtual Jenna (stress relief)
+
+Files Ripped Off : NONE!! This is completely original.... ok.. I stole the animations... bite me.
+
+There will be more in this series of the hero gang... stay tuned
+
+	XOXOXOXOXOXOXOXOXO
+		
+		Raoul HooD
+
+P.S. - Canadians Rule!
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ohuk
+Source Model Hash : e0d43e88a1520089ac8d93a074f60f72
+Source Model Date : 1264752616 (2010/01/29)
+
+Ported Model Name : ohuk_v1sc
+Ported Model Hash : 98fd2094a3c8a6b1f5186fb95f331502
+Ported Model Date : 1752492114 (2025/07/14)

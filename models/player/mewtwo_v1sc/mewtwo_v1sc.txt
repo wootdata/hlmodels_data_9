@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mewtwo
+Source Model Hash : 564e2ae063b5146aa4589e31b0743ec1
+Source Model Date : 1478177422 (2016/11/03)
+
+Ported Model Name : mewtwo_v1sc
+Ported Model Hash : e82d42525275f4c20b269ade1bb633ad
+Ported Model Date : 1752492006 (2025/07/14)

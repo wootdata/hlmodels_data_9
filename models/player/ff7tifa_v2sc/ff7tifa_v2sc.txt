@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ff7tifa_v2
+Source Model Hash : 12e89a25536153530fac7a1ed5a5af2d
+Source Model Date : 1583874017 (2020/03/10)
+
+Ported Model Name : ff7tifa_v2sc
+Ported Model Hash : 84e20032605ac23226f5d1e86aed2ec9
+Ported Model Date : 1752491650 (2025/07/14)

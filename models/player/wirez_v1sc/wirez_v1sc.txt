@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : wirez
+Source Model Hash : 5ea29c99f1521b9c9c3456453ee90da2
+Source Model Date : 1264529317 (2010/01/26)
+
+Ported Model Name : wirez_v1sc
+Ported Model Hash : fb7e7635565b909d5d3cb389607d8535
+Ported Model Date : 1752492510 (2025/07/14)

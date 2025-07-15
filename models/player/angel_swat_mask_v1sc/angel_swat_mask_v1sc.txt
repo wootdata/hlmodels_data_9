@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : angel_swat_balaclava
+Source Model Hash : bdf26f7c9ac58261e5f42941afa34cd5
+Source Model Date : 1541983443 (2018/11/11)
+
+Ported Model Name : angel_swat_mask_v1sc
+Ported Model Hash : 6d8487b5211486e67430f8a6b54c275f
+Ported Model Date : 1752491361 (2025/07/14)

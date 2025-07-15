@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_hieda_no_akyuu
+Source Model Hash : 0e6593b7194eebf39d2775c2fc6050d4
+Source Model Date : 1456261141 (2016/02/23)
+
+Ported Model Name : 2hu_hieda_akyuu_v1sc
+Ported Model Hash : 2ad23f781aa763274d0349694b76e4b2
+Ported Model Date : 1752492438 (2025/07/14)

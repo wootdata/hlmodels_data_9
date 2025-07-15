@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : [usmc]lcpl_hassan
+Source Model Hash : 451639040853accabeca8c0cdbaa76b2
+Source Model Date : 1542091424 (2018/11/12)
+
+Ported Model Name : [usmc]lcpl_hassan_v1sc
+Ported Model Hash : b878fda1e9aab477dd0fa10716fe55f0
+Ported Model Date : 1752492540 (2025/07/14)

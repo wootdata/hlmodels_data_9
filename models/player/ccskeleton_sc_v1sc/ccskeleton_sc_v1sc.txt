@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ccskeleton_sc
+Source Model Hash : e56b12ebbe04e2b8b5ce7e52a1d21fa5
+Source Model Date : 1586136567 (2020/04/05)
+
+Ported Model Name : ccskeleton_sc_v1sc
+Ported Model Hash : ca2afb3b119580bb826c1019d6a33373
+Ported Model Date : 1752491465 (2025/07/14)

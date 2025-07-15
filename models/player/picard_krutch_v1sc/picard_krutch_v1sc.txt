@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : picard_krutch
+Source Model Hash : 14830a453fd72b16c7ecf32323c49ec9
+Source Model Date : 1479157341 (2016/11/14)
+
+Ported Model Name : picard_krutch_v1sc
+Ported Model Hash : e132be2658c0f4b0711ae39fde06a650
+Ported Model Date : 1752492156 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hdn_noire-vgen
+Source Model Hash : 1f6742dea7c320eae1d952ca496d0fdc
+Source Model Date : 1539513882 (2018/10/14)
+
+Ported Model Name : hdn_noire-vgen_v1sc
+Ported Model Hash : b469a2222a6c6e7329c7b10fc02d7971
+Ported Model Date : 1752491777 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cheetah
+Source Model Hash : 10f2ec5d5f5a823e2f31151ae88d74d2
+Source Model Date : 1230554679 (2008/12/29)
+
+Ported Model Name : cheetah_v1sc
+Ported Model Hash : a2ff51a16b41396f5daf684096a7215d
+Ported Model Date : 1752491467 (2025/07/14)

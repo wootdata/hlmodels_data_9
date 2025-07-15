@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : eightball
+Source Model Hash : 8255a961f97a91a2a0fba78cd43425f9
+Source Model Date : 1264844581 (2010/01/30)
+
+Ported Model Name : eightball_v1sc
+Ported Model Hash : 0d9029a7486e2c7294f465bfad2029e4
+Ported Model Date : 1752491629 (2025/07/14)

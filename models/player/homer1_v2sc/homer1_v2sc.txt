@@ -1,0 +1,51 @@
+The original author of this model is Andy Dorizas (see "readme.txt")
+
+
+Anyway, it seems the two biggest complaints with this model were its size and that it didn't hold the weapons properly.  Well, since noone else has done anything about it, I did.
+
+I slimmed him down a bit and adjusted the arms so they're CLOSER to the actual skeleton. 
+NOTE:  It's FAR from perfect; I'm NOT a modeler and I have very little experience with modeling... so any problems with the original model in regards to faces, vertices, etc are still there and plainly visible. 
+
+
+Oh, and I updated to SC 4.0b animations.
+
+-Marb750
+
+----------
+readme.txt
+-----------
+
+Homer (Simpsons) -  Half-Life character  -  readme.txt
+March 9, 1999
+--------------------------------
+Character Stats:
+polys		807
+verts		441
+texture		256x256x256
+chrome		NO
+animation	Half-Life
+--------------------------------
+Character Info:
+This is Homer Simpson my favorite character from the simpsons
+He is a little high poly but those extra polies are there to
+keep his homieness.  I working on fixin his hands so be patient.
+--------------------------------
+
+Andy Dorizas	
+adorizas@inlandprod.com
+http://www.inlandprod.com
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : homer1_v2
+Source Model Hash : f89bdb81d7836856d5bb6fb13712d399
+Source Model Date : 1581568994 (2020/02/12)
+
+Ported Model Name : homer1_v2sc
+Ported Model Hash : 216bedf1abfa4f02f7c95f2f73ea0130
+Ported Model Date : 1752491827 (2025/07/14)

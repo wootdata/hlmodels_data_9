@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : vanity
+Source Model Hash : 5afbbcc2fd63f85c16f44004d3806772
+Source Model Date : 1465827724 (2016/06/13)
+
+Ported Model Name : vanity_v1sc
+Ported Model Hash : 2c769da32fb0dcd7a26f92fe5058abfd
+Ported Model Date : 1752492487 (2025/07/14)

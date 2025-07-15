@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : massacrer2_v2
+Source Model Hash : 3d61011a50a902d18488391b3b327764
+Source Model Date : 1583656225 (2020/03/08)
+
+Ported Model Name : massacrer2_v2sc
+Ported Model Hash : f2017d5ed892c9c1a734757f20200e3b
+Ported Model Date : 1752491990 (2025/07/14)

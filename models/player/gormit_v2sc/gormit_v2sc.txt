@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gormit_v2
+Source Model Hash : aca5dc7ffe8aa33830b225d65418741f
+Source Model Date : 1583374546 (2020/03/04)
+
+Ported Model Name : gormit_v2sc
+Ported Model Hash : 9baff4e968a40c59e791d07692e30d00
+Ported Model Date : 1752491736 (2025/07/14)

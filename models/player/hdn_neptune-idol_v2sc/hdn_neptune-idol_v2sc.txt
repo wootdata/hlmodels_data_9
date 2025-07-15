@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hdn_neptune-idol_v2
+Source Model Hash : afd54f88767eb6675d906568bf488ff2
+Source Model Date : 1582180783 (2020/02/19)
+
+Ported Model Name : hdn_neptune-idol_v2sc
+Ported Model Hash : db0d3c4830c87d2f91e88ca0cfdee094
+Ported Model Date : 1752491777 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : suwako
+Source Model Hash : 549e40a4d7c8aebdb80ccde50c71f699
+Source Model Date : 1470092772 (2016/08/01)
+
+Ported Model Name : suwako_v1sc
+Ported Model Hash : 220c341c4db7af1e76b5247c06f72251
+Ported Model Date : 1752492352 (2025/07/14)

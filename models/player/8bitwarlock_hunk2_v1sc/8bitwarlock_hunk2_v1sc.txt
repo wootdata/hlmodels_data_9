@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 8bitwarlock_hunk2
+Source Model Hash : 222c2570ebeddd92481645590186010a
+Source Model Date : 1455995464 (2016/02/20)
+
+Ported Model Name : 8bitwarlock_hunk2_v1sc
+Ported Model Hash : 3a5872235bc8df3b31a41119345d12af
+Ported Model Date : 1752491324 (2025/07/14)
