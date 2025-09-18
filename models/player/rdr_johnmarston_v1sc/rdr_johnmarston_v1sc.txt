@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rdr_johnmarston
+Source Model Hash : ce64d90c829cc3283a49c58cf71736d0
+Source Model Date : 1753542270 (2025/07/26)
+
+Ported Model Name : rdr_johnmarston_v1sc
+Ported Model Hash : 23120178a600bc2fe8e6d9e1327c488b
+Ported Model Date : 1758225768 (2025/09/18)

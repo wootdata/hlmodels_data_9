@@ -118,7 +118,7 @@
 			"type": 8
 		}
 	],
-	"date": 1758223630,
+	"date": 1758225768,
 	"events": [
 		{
 			"event": 5005,
@@ -386,8 +386,8 @@
 	"metahook_ragdoll": false,
 	"modid": 14,
 	"name": "rdr_johnmarston.mdl",
-	"preview": false,
-	"readme": false,
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{
