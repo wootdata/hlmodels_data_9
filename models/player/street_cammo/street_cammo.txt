@@ -1,0 +1,18 @@
+Street Cammo Gordon
+Gordon in a street cammo outfit with Street cammo makeup.
+Made by Jackal
+
+Files included in this .zip:
+-Street Cammo.mdl = The accual model
+-Street Cammo.bmp = The pic you see when selecting your model in HL
+-Street Cammo.txt = This file
+
+Unzip this file to a new directory under your
+"\sierra\half-life\valve\models\player\Street Cammo"  Folder.(If you don't name the last 
+folder the same as the .mdl file it won't work)
+
+
+If you have any questions e-mail me @ jackall@cwo.com
+
+
+

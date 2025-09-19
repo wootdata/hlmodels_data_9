@@ -1,0 +1,33 @@
+Type: 		Halflife Multiplayer Pluggin Model
+
+Name: 		Commando (Vietnam era LRRP)
+
+Release Date: 	11th September 1999
+
+Author:		Sargent Spam    
+
+E-Mail:		miuw104@yahoo.com
+
+Homepage: 	www.lld.org
+
+Files:		Commando.mdl, Commando.bmp, Commando.txt 			
+
+Instructions:	Create a folder  Half-life\valve\models\player\Commando
+                and just unzip all the files into there.
+
+		This model can be freely distributed as long as this text file is included, unmodified.
+		If you wish to  include it in a compilation, Mod or commerical product, please email me first.
+		
+Description: 	This model was based on the LRRP (Long Range Recon Patrols) typical during the Vietnam conflict. LRRP's 
+                were used to conduct long days of exhausting patrols (5-10 days min.) off of normal trails, to conduct recon 
+                and engage hostile targets if necessary. LRRP's were a cructial element of the war effort, providing much
+                needed intel in addition to the removal of key enemy targets. 
+
+                 
+Influences:	My time in the armed forces as well as the reserve duty currently I do with MIUW104 (Mobile Inshore 
+                Undersea Warfare Unit)
+
+Misc:           This is my first model for HL, so please try not to look down upon it too much! Have Fun!
+
+
+[LLD]Sgt.Spam

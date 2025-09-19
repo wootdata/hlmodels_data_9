@@ -1,0 +1,77 @@
+
+[]~bL00d~[] Model v1.0 (readme)
+
+Visit Blood at:
+http://blood.godsofgaming.com
+
+
+Models created by:
+Bryan:Mountain Dew Patrol
+
+Thank You Bryan! :)
+
+
+Please, only Blood members *wear* our models on public servers.
+
+
+--------------- Instructions ---------------
+
+
+File name info:
+
+bloodleader-m.zip
+bloodshark-m.zip
+
+"name=blood" "skin=name" "sex=m/f"
+
+
+
+Installation:
+
+Please open this folder...
+ 
+\halflife\valve\models\player
+
+
+Inside your "player" folder create two(2) NEW folders which you'll name...
+
+bloodleader-m
+
+-and-
+
+bloodshark-m
+
+
+
+Next...
+
+Unzip the contents of bloodleader-m.zip into the bloodleader-m folder
+
+-and-
+
+Unzip the contents of bloodshark-m.zip into the bloodshark-m folder
+
+(unzip utility can be found at www.winzip.com)
+
+
+
+That's it, you're done!
+
+You can delete the .zip files
+
+
+
+Note:
+
+To switch models while in the game, open the console and type "model bloodleader-m"
+for the leader model -or- "model bloodshark-m" for the shark model.
+
+Typing just "model" in the console will tell you what model you're currently wearing!
+
+(no, don't use the quotes " " when typing these commands into the console)
+
+
+
+Onward and Upward!
+
+[]~bL00d~[] Copyright 2001-2002

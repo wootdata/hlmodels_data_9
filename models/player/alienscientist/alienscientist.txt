@@ -1,0 +1,6 @@
+***SETUP***
+just create an AlienScientist folder in sierra\half life\valve\models\player then extract there.
+***CREATOR SUGGEST***
+When you edit the model plz rename it
+contact me limthte@tm.net.my
+icq#=35117534

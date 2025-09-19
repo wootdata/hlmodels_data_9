@@ -1,0 +1,32 @@
+
+Lecavalier_README.txt			12:18 03APR2000
+
+This model is based on the Nation Hockey League player Vincent Lecavalier, from the Tampa Bay Lightning. Vincent is a playmaking scorer and one of my favorite players. He is only 19 years old and the Lightning's captain. He is one of the most talented young players in the NHL and will be a superstar for years to come.
+
+This model is based off of Keith VanDorn's Turgeon model. This model would not have been possible without his original design. I basically just edited the skins. I did not touch the frame or skeleton much at all.    k_vandorn     kvandorn@kupperparker.com
+
+His Turgeon model was created with Chumbalum Soft's Milkshape 3D and wouldn't have been possible without Scarecrow's tutorials from Coldfusion. Various parts of this model were very loosely based on other models from Valve. While VanDorn created the entire Turgeon
+model himself, he recreated some of the arms and torso from styles that they used (to avoid pinching in the shoulder areas). 
+I used Adobe Photoshop to edit the skins.
+
+#vertices:     453
+#triangles:    851
+#groups:      3
+#bones:       40
+#materials:   3
+sgroups:       1
+
+The Lightning Emblem is a trademark of the Tamba Bay Lightning and the NHL. Lecavalier and his likeness are represented by the NHLPA.
+The CCM, Easton and Mission logos are the properties of their respective companies.
+
+To use this model for Half-Life simply create a new folder named 'Lecavalier' (NO QUOTES!) in: 
+...\Half-Life\valve\models\player\...
+Un-zip the Lecavalier.mdl and .bmps into the new Lecavalier folder.
+
+
+Lecavalier is an ice-hockey player. But, due to the fact that not many maps have ice, roller-hockey skates were put on him. Also, he doesn't exactly "skate" as much as he walks. 
+If anyone wants to redo the animation so that he skates, feel free to do so. Otherwise, please do not use this model to make any other models or skins of other players without crediting me and VanDorn in your readme.
+I'd love to see other players done. Even the Flyers, I guess.
+
+K. Carlson
+sportscrazed@mail.com
