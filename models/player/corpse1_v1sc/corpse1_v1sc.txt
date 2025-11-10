@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : corpse1
+Source Model Hash : cd2ce7cffe863f6c4a99b5483dad225e
+Source Model Date : 1761326627 (2025/10/24)
+
+Ported Model Name : corpse1_v1sc
+Ported Model Hash : 4f2eb549eb03db337ce8c1755fa8f839
+Ported Model Date : 1762777778 (2025/11/10)
