@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : guilmon_cc_r
+Source Model Hash : a13783359f40bf9c505d21c1b1d12780
+Source Model Date : 1770563215 (2026/02/08)
+
+Ported Model Name : guilmon_cc_r_v1sc
+Ported Model Hash : 9fc89ba3aaa426e26625bfe6c504338a
+Ported Model Date : 1780823022 (2026/06/07)

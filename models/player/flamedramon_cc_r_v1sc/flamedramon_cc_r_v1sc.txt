@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : flamedramon_cc_r
+Source Model Hash : 856c7d64aaebe8cc8feaab1484480d62
+Source Model Date : 1779858436 (2026/05/26)
+
+Ported Model Name : flamedramon_cc_r_v1sc
+Ported Model Hash : eca0d725b1b301a12d768e1664751bc0
+Ported Model Date : 1780823021 (2026/06/07)
